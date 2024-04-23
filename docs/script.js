@@ -1,12 +1,13 @@
-document.getElementById('calculateButton').addEventListener('click', function() {
-    var selectedDate = document.getElementById('dateInput').value;
-    var date = new Date(selectedDate);
-    var panchang = new Panchang(date);
-    panchang.calculate();
-    displayPanchangDetails(panchang);
-});
-
-function displayPanchangDetails(panchang) {
-    var detailsDiv = document.getElementById('panchangDetails');
-    detailsDiv.innerHTML = JSON.stringify(panchang, null, 2);
+// script.js
+function fetchFestivals() {
+    const month = document.getElementById('monthSelect').value;
+    fetch('/.netlify/functions/getFestivals?month=' + month)
+        .then(response => response.json())
+        .then(data => {
+            const festivalsList = document.getElementById('festivalsList');
+            festivalsList.innerHTML = '';
+            data.forEach(festival => {
+                festivalsList.innerHTML += `<p>${festival.name}</p>`;
+            });
+        });
 }

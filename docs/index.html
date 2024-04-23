@@ -3,14 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Panchang Calculator</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Indian Festivals</title>
 </head>
 <body>
-    <h1>Panchang Calculator</h1>
-    <input type="date" id="dateInput" placeholder="Select a date">
-    <button id="calculateButton">Calculate Panchang</button>
-    <div id="panchangDetails"></div>
+    <h1>Select a Month</h1>
+    <select id="monthSelect">
+        <option value="1">January</option>
+        <option value="2">February</option>
+        <!-- Add other months -->
+    </select>
+    <button onclick="fetchFestivals()">Show Festivals</button>
+    <div id="festivalsList"></div>
     <script src="script.js"></script>
 </body>
 </html>
