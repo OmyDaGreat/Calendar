@@ -1,242 +1,66 @@
 Festivals in 2024:
-{
- "January": [
-  {
-   "date": "1",
-   "day": "Monday",
-   "name": "New Year"
-  },
-  {
-   "date": "14",
-   "day": "Sunday",
-   "name": "Lohri"
-  },
-  {
-   "date": "15",
-   "day": "Monday",
-   "name": "Pongal, Uttarayan, Makar Sankranti"
-  },
-  {
-   "date": "23",
-   "day": "Tuesday",
-   "name": "Subhas Chandra Bose Jayanti"
-  },
-  {
-   "date": "26",
-   "day": "Friday",
-   "name": "Republic Day"
-  }
- ],
- "February": [
-  {
-   "date": "14",
-   "day": "Wednesday",
-   "name": "Basant Panchmi, Saraswati Puja"
-  }
- ],
- "March": [
-  {
-   "date": "8",
-   "day": "Friday",
-   "name": "Mahashivratri"
-  },
-  {
-   "date": "24",
-   "day": "Sunday",
-   "name": "Holika Dahan"
-  },
-  {
-   "date": "25",
-   "day": "Monday",
-   "name": "Holi"
-  }
- ],
- "April": [
-  {
-   "date": "1",
-   "day": "Monday",
-   "name": "Bank's Holiday"
-  },
-  {
-   "date": "9",
-   "day": "Tuesday",
-   "name": "Chaitra Navratri, Ugadi, Gudi Padwa"
-  },
-  {
-   "date": "10",
-   "day": "Wednesday",
-   "name": "Cheti Chand"
-  },
-  {
-   "date": "13",
-   "day": "Saturday",
-   "name": "Baisakhi"
-  },
-  {
-   "date": "14",
-   "day": "Sunday",
-   "name": "Ambedkar Jayanti"
-  },
-  {
-   "date": "17",
-   "day": "Wednesday",
-   "name": "Chaitra Navratri Parana, Ram Navami"
-  },
-  {
-   "date": "23",
-   "day": "Tuesday",
-   "name": "Hanuman jayanti"
-  }
- ],
- "May": [
-  {
-   "date": "10",
-   "day": "Friday",
-   "name": "Akshaya Tritiya"
-  }
- ],
- "July": [
-  {
-   "date": "7",
-   "day": "Sunday",
-   "name": "Jagannath Rath Yatra"
-  },
-  {
-   "date": "17",
-   "day": "Wednesday",
-   "name": "Ashadhi Ekadashi"
-  },
-  {
-   "date": "21",
-   "day": "Sunday",
-   "name": "Guru Purnima"
-  }
- ],
- "August": [
-  {
-   "date": "7",
-   "day": "Wednesday",
-   "name": "Hariyali Teej"
-  },
-  {
-   "date": "9",
-   "day": "Friday",
-   "name": "Nag Panchami"
-  },
-  {
-   "date": "15",
-   "day": "Thursday",
-   "name": "Independence Day"
-  },
-  {
-   "date": "19",
-   "day": "Monday",
-   "name": "Raksha Bandhan"
-  },
-  {
-   "date": "22",
-   "day": "Thursday",
-   "name": "Kajari Teej"
-  },
-  {
-   "date": "26",
-   "day": "Monday",
-   "name": "Janmashtami"
-  }
- ],
- "September": [
-  {
-   "date": "6",
-   "day": "Friday",
-   "name": "Hartalika Teej"
-  },
-  {
-   "date": "7",
-   "day": "Saturday",
-   "name": "Ganesh Chaturthi"
-  },
-  {
-   "date": "15",
-   "day": "Sunday",
-   "name": "Onam/Thiruvonam"
-  },
-  {
-   "date": "17",
-   "day": "Tuesday",
-   "name": "Anant Chaturdashi"
-  }
- ],
- "October": [
-  {
-   "date": "2",
-   "day": "Wednesday",
-   "name": "Gandhi Jayanti"
-  },
-  {
-   "date": "3",
-   "day": "Thursday",
-   "name": "Sharad Navratri"
-  },
-  {
-   "date": "11",
-   "day": "Friday",
-   "name": "Durga Maha Navami Puja, Durga Puja Ashtami"
-  },
-  {
-   "date": "12",
-   "day": "Saturday",
-   "name": "Dussehra, Sharad Navratri Parana"
-  },
-  {
-   "date": "20",
-   "day": "Sunday",
-   "name": "Karva Chauth"
-  },
-  {
-   "date": "29",
-   "day": "Tuesday",
-   "name": "Dhanteras"
-  },
-  {
-   "date": "31",
-   "day": "Thursday",
-   "name": "Narak Chaturdashi"
-  }
- ],
- "November": [
-  {
-   "date": "1",
-   "day": "Friday",
-   "name": "Diwali"
-  },
-  {
-   "date": "2",
-   "day": "Saturday",
-   "name": "Govardhan Puja"
-  },
-  {
-   "date": "3",
-   "day": "Sunday",
-   "name": "Bhai Dooj"
-  },
-  {
-   "date": "7",
-   "day": "Thursday",
-   "name": "Chhath Puja"
-  },
-  {
-   "date": "14",
-   "day": "Thursday",
-   "name": "Children's Day"
-  }
- ],
- "December": [
-  {
-   "date": "25",
-   "day": "Wednesday",
-   "name": "Merry Christmas"
-  }
- ],
- "S.No.": []
-}
-================================================
+
+January:
+- **New Year** on Monday, January 1
+- **Lohri** on Sunday, January 14
+- **Pongal, Uttarayan, Makar Sankranti** on Monday, January 15
+- **Subhas Chandra Bose Jayanti** on Tuesday, January 23
+- **Republic Day** on Friday, January 26
+
+February:
+- **Basant Panchmi, Saraswati Puja** on Wednesday, February 14
+
+March:
+- **Mahashivratri** on Friday, March 8
+- **Holika Dahan** on Sunday, March 24
+- **Holi** on Monday, March 25
+
+April:
+- **Bank's Holiday** on Monday, April 1
+- **Chaitra Navratri, Ugadi, Gudi Padwa** on Tuesday, April 9
+- **Cheti Chand** on Wednesday, April 10
+- **Baisakhi** on Saturday, April 13
+- **Ambedkar Jayanti** on Sunday, April 14
+- **Chaitra Navratri Parana, Ram Navami** on Wednesday, April 17
+- **Hanuman jayanti** on Tuesday, April 23
+
+May:
+- **Akshaya Tritiya** on Friday, May 10
+
+July:
+- **Jagannath Rath Yatra** on Sunday, July 7
+- **Ashadhi Ekadashi** on Wednesday, July 17
+- **Guru Purnima** on Sunday, July 21
+
+August:
+- **Hariyali Teej** on Wednesday, August 7
+- **Nag Panchami** on Friday, August 9
+- **Independence Day** on Thursday, August 15
+- **Raksha Bandhan** on Monday, August 19
+- **Kajari Teej** on Thursday, August 22
+- **Janmashtami** on Monday, August 26
+
+September:
+- **Hartalika Teej** on Friday, September 6
+- **Ganesh Chaturthi** on Saturday, September 7
+- **Onam/Thiruvonam** on Sunday, September 15
+- **Anant Chaturdashi** on Tuesday, September 17
+
+October:
+- **Gandhi Jayanti** on Wednesday, October 2
+- **Sharad Navratri** on Thursday, October 3
+- **Durga Maha Navami Puja, Durga Puja Ashtami** on Friday, October 11
+- **Dussehra, Sharad Navratri Parana** on Saturday, October 12
+- **Karva Chauth** on Sunday, October 20
+- **Dhanteras** on Tuesday, October 29
+- **Narak Chaturdashi** on Thursday, October 31
+
+November:
+- **Diwali** on Friday, November 1
+- **Govardhan Puja** on Saturday, November 2
+- **Bhai Dooj** on Sunday, November 3
+- **Chhath Puja** on Thursday, November 7
+- **Children's Day** on Thursday, November 14
+
+December:
+- **Merry Christmas** on Wednesday, December 25
