@@ -4,9 +4,6 @@
     <title>Festivals</title>
     <script>
         window.onload = function() {
-            fetch('/run-main')
-                .then(response => alert('Python script executed. You may continue.'))
-                .catch(error => console.error('Error running script:', error));
             fetch('output.txt')
                 .then(response => response.text())
                 .then(data => {
